@@ -52,7 +52,10 @@
         <img src="https://github.com/ManuFlosoYT/ManuFlosoYT/blob/0b46fecb6d6ab8bcc065a5dc34f1f386b2e06577/nasm-logo.webp" width="48" height="48" alt="Assembly" />
       <br>Assembly
     </td>
-
+    <td align="center" width="96"> 
+        <img src="https://github.com/ManuFlosoYT/ManuFlosoYT/blob/7a2677188ef4b7ab87478802515beffdfd7c0380/java.webp" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
   </tr>
  <tr>
             <td align="center" width="96">
