@@ -56,12 +56,19 @@
         <img src="https://github.com/ManuFlosoYT/ManuFlosoYT/blob/7a2677188ef4b7ab87478802515beffdfd7c0380/java.webp" width="48" height="48" alt="Java" />
       <br>Java
     </td>
-  </tr>
- <tr>
-            <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
+ <tr>
+     <td align="center" width="96"> 
+        <img src="https://github.com/ManuFlosoYT/ManuFlosoYT/blob/daa4b2ccc131370f9234c4ae72f706515d881ccd/unreal.webp" width="48" height="48" alt="Unreal Engine" />
+      <br>Unreal Engine
+    </td>
+   <td align="center" width="96"> 
+        <img src="https://github.com/ManuFlosoYT/ManuFlosoYT/blob/daa4b2ccc131370f9234c4ae72f706515d881ccd/unity.webp" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>      
           
  </tr>
 </table>
